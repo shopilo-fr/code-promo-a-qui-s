@@ -1,0 +1,22 @@
+{
+  "name": "code-promo-a-qui-s",
+  "version": "1.0.0",
+  "description": "Recuperation automatique de codes promo A-qui-S depuis shopilo.fr",
+  "main": "index.js",
+  "keywords": [
+    "code-promo",
+    "code-promo-a-qui-s",
+    "bon-de-reduction-a-qui-s",
+    "coupon-a-qui-s",
+    "reductions",
+    "shopilo",
+    "coupons"
+  ],
+  "author": "shopilo-fr",
+  "license": "MIT",
+  "homepage": "https://shopilo.fr/reductions/a-qui-s.fr",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-fr/code-promo-a-qui-s.git"
+  }
+}
